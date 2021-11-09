@@ -6,7 +6,9 @@ While SA-MP forums are dead, and people still playing SAMP, there resources whic
 
 
 Youtube video of the script:
-https://www.youtube.com/watch?v=Jr_y4-Nbxzo
+
+[![Radio System v2.0](https://img.youtube.com/vi/Jr_y4-Nbxzo/0.jpg)](https://www.youtube.com/watch?v=Jr_y4-Nbxzo)
+
 
 
 Enjoy
